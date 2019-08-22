@@ -1,0 +1,11 @@
+C:\Users\joshu\Desktop\Github Projects\SaMSR\bin\Debug\netcoreapp2.2\SaMSR.deps.json
+C:\Users\joshu\Desktop\Github Projects\SaMSR\bin\Debug\netcoreapp2.2\SaMSR.runtimeconfig.json
+C:\Users\joshu\Desktop\Github Projects\SaMSR\bin\Debug\netcoreapp2.2\SaMSR.runtimeconfig.dev.json
+C:\Users\joshu\Desktop\Github Projects\SaMSR\bin\Debug\netcoreapp2.2\SaMSR.dll
+C:\Users\joshu\Desktop\Github Projects\SaMSR\bin\Debug\netcoreapp2.2\SaMSR.pdb
+C:\Users\joshu\Desktop\Github Projects\SaMSR\obj\Debug\netcoreapp2.2\SaMSR.csprojAssemblyReference.cache
+C:\Users\joshu\Desktop\Github Projects\SaMSR\obj\Debug\netcoreapp2.2\SaMSR.csproj.CoreCompileInputs.cache
+C:\Users\joshu\Desktop\Github Projects\SaMSR\obj\Debug\netcoreapp2.2\SaMSR.AssemblyInfoInputs.cache
+C:\Users\joshu\Desktop\Github Projects\SaMSR\obj\Debug\netcoreapp2.2\SaMSR.AssemblyInfo.cs
+C:\Users\joshu\Desktop\Github Projects\SaMSR\obj\Debug\netcoreapp2.2\SaMSR.dll
+C:\Users\joshu\Desktop\Github Projects\SaMSR\obj\Debug\netcoreapp2.2\SaMSR.pdb
